@@ -34,7 +34,7 @@ body{
     display: grid;
     place-items: center;
     min-height: 100vh;
-    background-image: url('/images/pattern-background-desktop.svg');
+    background-image: url('../images/pattern-background-desktop.svg');
     background-size: 100% 50%;
     background-position: top center;
     background-repeat: no-repeat;
@@ -153,10 +153,10 @@ img{
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media(max-width:400px){
+@media(max-width:450px){
 
     body{
-        background-image: url('/images/pattern-background-mobile.svg');
+        background-image: url('../images/pattern-background-mobile.svg');
         background-size: 100% 30%;
     }
     .payment-card{

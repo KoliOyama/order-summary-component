@@ -7,6 +7,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -25,6 +26,9 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/screenshots/order-summary.png)
+
+### Links
+- Live Site URL: [results-summary-component](https://ko-order-summary-component.netlify.app/)
 
 
 ## My process
